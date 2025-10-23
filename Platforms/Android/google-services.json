@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1082460338975",
+    "project_id": "notifyme-ffe87",
+    "storage_bucket": "notifyme-ffe87.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1082460338975:android:c3fbc2dc0539c568060e2a",
+        "android_client_info": {
+          "package_name": "com.companyname.MAUIFirebaseNotification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-PG6s938Ab173lrFCGVPGpzKJ1i7fzeE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
